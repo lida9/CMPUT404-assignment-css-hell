@@ -1,0 +1,59 @@
+.content {
+	font-family: Sans-serif;
+	margin-left: 10%;
+	margin-right: 10%;
+	max-width: 725px;
+	margin: auto;
+}
+img {
+	width: 100px;
+	border-radius: 5%;
+	margin: 20px;
+	float: left;
+}
+.section {
+	padding: 20px;
+}
+.section-title {
+	font-size: 180%;
+	margin-bottom: 5px;
+	margin-top: 20px;
+}
+.name {
+	margin-top: 20px;
+	font-size: 200%;
+	margin-bottom: 30px;
+}
+
+.intro-section {
+	background-color: #7e96bd;
+	height: 100%;
+}
+.job-title{
+	color: #5b79ab;
+}
+li {
+	padding: 0.2em;
+	margin-left: 25px;
+}
+.skills {
+	margin-top: 20px;
+	font-size: 180%;
+	text-align: center;
+}
+
+.sidebar {
+	background-color: rgba(211,211,211, 0.3);
+	margin-left: 20px;
+	width: 200px;
+	border-radius: 10%;
+	position: relative;
+	float: right;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+.timeframe {
+	font-style: italic;
+	margin-bottom: 1em;
+}
