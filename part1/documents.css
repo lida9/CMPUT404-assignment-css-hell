@@ -1,0 +1,70 @@
+body {
+	text-align: center;
+	background: #eddfaf;
+	margin-left: 15%;
+	margin-right: 15%;
+	font-family: serif, Sans-serif, Cursive;
+}
+
+h1 {
+	font-size: 250%;
+	font-family: serif, Sans-serif, Cursive;
+}
+h2, h3, h4, h5 {
+	font-size: 200%;
+	font-family: serif, Sans-serif, Cursive;
+}
+
+p {
+	text-align: left;
+	text-indent: 1em;
+}
+.center, .toc {
+	text-align: center;
+}
+
+hr{
+	border: 0;
+	border-top: 1px solid black;
+}
+
+table{
+	margin-left: auto;
+	margin-right: auto;
+	border-collapse: collapse;
+}
+td { 
+	vertical-align: top; 
+	border: 1px solid black;
+	padding:7px;
+}
+td p { 
+	margin: 0.2em; 
+}
+.pagenum {
+	position: absolute;
+	left: 92%;
+	font-size: small;
+	text-align: right;
+	font-weight: normal;
+	color: gray;
+}
+
+a:link, a:visited {
+	color: #000000;
+}
+a:hover {
+	font-weight: bold;
+}
+
+
+img {
+	border:none;
+	margin-bottom: 1em;
+	margin-left: auto;
+	margin-right: auto
+}
+figcaption {
+	font-weight: bold
+}
+
