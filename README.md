@@ -1,3 +1,6 @@
+## Modification
+Delete everything inside and including the style tag in each of the gutenberg HTML files, then add link to the css file I created.
+
 Assignment: CSS Hell
 ====================
 
@@ -21,4 +24,6 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Contributor:
+Lida Ling
 
