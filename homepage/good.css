@@ -1,34 +1,49 @@
 .content {
 	font-family: Sans-serif;
-	margin-left: 10%;
-	margin-right: 10%;
 	max-width: 725px;
 	margin: auto;
 }
 img {
 	width: 100px;
 	border-radius: 5%;
-	margin: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
 	float: left;
 }
 .section {
-	padding: 20px;
+	padding: 10px;
 }
 .section-title {
 	font-size: 180%;
 	margin-bottom: 5px;
 	margin-top: 20px;
 }
-.name {
-	margin-top: 20px;
-	font-size: 200%;
-	margin-bottom: 30px;
+h1 {
+	text-align: center;
+	padding: 40px;
+}
+a {
+	padding: 10px;
+}
+a:hover {
+	background-color: #d9bd4e;
+}
+a:visited, a:link {
+	color: white; 
+}
+.navigation {
+	padding-top: 1px;
+	padding-bottom: 7px;
+	background-color: #4f4e4a;
+	text-align: center;
+	height: 40px;
 }
 
-.intro-section {
-	background-color: #7e96bd;
-	height: 100%;
+.header {
+	background-color: #3aa2de;
+	height: 120px;
 }
+
 .job-title{
 	color: #5b79ab;
 }
